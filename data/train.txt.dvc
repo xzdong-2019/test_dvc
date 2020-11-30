@@ -1,0 +1,3 @@
+outs:
+- md5: 080361aad9c000875a9a13b2319ab33d
+  path: train.txt

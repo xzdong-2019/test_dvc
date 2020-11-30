@@ -1,0 +1,3 @@
+outs:
+- md5: 8b2defd730b2db72322ba1ad3cecb9fa
+  path: train.tar.gz
