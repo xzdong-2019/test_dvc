@@ -3,5 +3,5 @@
 ['remote "corpusremote"']
     url = s3://chatbot-data/
     endpointurl = http://10.110.147.181:7480
-    access_key_id = 88P84D9DJT6DBVFPP63U
-    secret_access_key = b9lCRJ6pkMhdVO2h1rDF4CoNSDkShdvkfVToCECm
+    access_key_id = HBNW4OF9PHXL0G5364I1
+    secret_access_key = p7jBOYbnXGirBFBWTIFsevO5nMjWDzs2B9TeAelM
