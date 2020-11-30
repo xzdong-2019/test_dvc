@@ -1,0 +1,7 @@
+[core]
+    remote = corpusremote
+['remote "corpusremote"']
+    url = s3://chatbot-data/
+    endpointurl = http://10.110.147.181:7480
+    access_key_id = 88P84D9DJT6DBVFPP63U
+    secret_access_key = b9lCRJ6pkMhdVO2h1rDF4CoNSDkShdvkfVToCECm
